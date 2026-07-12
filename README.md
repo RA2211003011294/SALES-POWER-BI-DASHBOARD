@@ -79,7 +79,8 @@ The dataset contains the following fields:
 
 ### Executive Dashboard
 
-> Add a screenshot of Page 1 here.
+> <img width="1978" height="1052" alt="Screenshot 2026-07-12 200011" src="https://github.com/user-attachments/assets/743991ed-92f2-452f-a83e-55b8ec03de40" />
+
 
 ### Product & Customer Analysis
 
