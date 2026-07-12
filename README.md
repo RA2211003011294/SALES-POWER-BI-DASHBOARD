@@ -84,7 +84,8 @@ The dataset contains the following fields:
 
 ### Product & Customer Analysis
 
-> Add a screenshot of Page 2 here.
+> <img width="2228" height="1174" alt="Screenshot 2026-07-12 195936" src="https://github.com/user-attachments/assets/b643879a-2423-4419-bfb4-e0d38e926882" />
+
 
 ---
 
